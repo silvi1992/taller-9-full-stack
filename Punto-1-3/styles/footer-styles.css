@@ -1,0 +1,51 @@
+#footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin: 120px;
+    padding: 20px 100px;
+    background-color: #010857;
+    color: #fff;
+}
+
+.footer__info {
+    width: 35%;
+}
+
+input {
+    width: 200px;
+    padding: 12px 20px;
+    margin-right: -15p;
+    border: none;
+    border-radius: 10px;
+    background-color: #45489899;
+}
+
+.button--pink {
+    margin-right: 10px;
+    background-color: #fd909f;
+    color: #fff;
+    border: none;
+}
+
+table{
+    font-family: 'joft';
+    text-align: left;
+}
+
+tr{
+    height: 40px;
+}
+
+th{
+    height: 80px;
+}
+
+td{
+    padding-right: 50px;
+}
+
+td a {
+    color: #fff;
+}

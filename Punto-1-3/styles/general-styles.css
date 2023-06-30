@@ -1,0 +1,45 @@
+a {
+    font-family: 'jost';
+    font-size:  18px;
+}
+
+button {
+    padding: 10px 25px;
+    font-family: 'jost';
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button--orange{
+    margin-right: 10px;
+    background-color: #fd909f;
+    color: #fff;
+    border: none;
+}
+
+.button--pink {
+    margin-right: 10px;
+    background-color: #fd909f;
+    color: #fff;
+    border: none;
+}
+
+h2{
+    margin: 5px 0px;
+    color: #454868;
+    font-family: 'jost';
+    font-size: 48px;
+    line-height: 55px;
+    letter-spacing: -0.64px;
+}
+
+p {
+    font-family: 'jost';
+    font-size: 15px;
+    float: 300px;
+}
+
+body{
+    margin: 0px;
+}

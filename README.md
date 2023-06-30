@@ -1,4 +1,3 @@
-
 <h1>Taller 9: Silvia Marmolejo</h1>
 
 <h2>Información</h2>
@@ -11,3 +10,6 @@
 <h2>Punti 2: html</h2>
 <img src="./public/images/html.png.png" alt="html">
 
+<h2>punto 3: css</h2>
+<img src="./public/images/css.png" 
+alt="css">

@@ -1,0 +1,45 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 100px;
+}
+
+.header__navigation {
+    display: flex;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+
+nav ul a {
+    color: #454868;
+    text-decoration:  none;
+}
+
+.header__sentting {
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+
+.header__sentting {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: 'jost';
+    font-weight: 300;
+    color:  #454868;
+}
+
+.header__sentting button {
+    background-color: transparent;
+    color: #454868;
+    border: 1px solid #454868;
+}
+
+
+
