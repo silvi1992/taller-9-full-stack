@@ -1,0 +1,18 @@
+p1{
+    color:red;
+    font-size: 40px;
+    letter-spacing: normal;
+    
+}
+
+p2{
+    color: blue;
+    font-size: 40px;
+
+}
+
+div {
+    margin: 50px 600px;
+    line-height: 55px;
+    letter-spacing: -0.64px;
+ }
