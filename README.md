@@ -23,3 +23,7 @@ alt="css">
 <h2>punto 6: html</h2>
 <img src="./public/images/screencapture-file-C-Users-Diego-Alexander-OneDrive-Escritorio-TALLER-punto-6-public-indesx-html-2023-07-08-11_40_35.png"
 atl="html">
+
+<h2>punto 7: html</h2>
+<img src="./public/images/screencapture-file-C-Users-Diego-Alexander-OneDrive-Escritorio-TALLER-punto-7-public-index-html-2023-07-08-12_02_07.png"
+atl="html">
