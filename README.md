@@ -16,3 +16,8 @@ alt="css">
 
 <h2>punto 4: html<h2>
 <img src="./public/images/screencapture-file-C-Users-Diego-Alexander-OneDrive-Escritorio-TALLER-punto-4-public-index-html-2023-07-08-09_58_00.png" alt="html">
+
+<h2>punto 5: html</h2>
+<img src="./public/images/screencapture-file-C-Users-Diego-Alexander-OneDrive-Escritorio-TALLER-punto-5-public-index-html-2023-07-08-11_17_09.png" atl="html">
+
+
