@@ -27,3 +27,7 @@ atl="html">
 <h2>punto 7: html</h2>
 <img src="./public/images/screencapture-file-C-Users-Diego-Alexander-OneDrive-Escritorio-TALLER-punto-7-public-index-html-2023-07-08-12_02_07.png"
 atl="html">
+
+<h2>punto 9: html</h2>
+<img src="./public/images/screencapture-file-C-Users-Diego-Alexander-OneDrive-Escritorio-TALLER-punto-9-public-index-html-2023-07-08-12_36_56.png"
+atl="html">

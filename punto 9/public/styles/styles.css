@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 70%;
+    border-collapse: collapse;
+    margin: auto;
+    background-color: yellow;
+}
+
+table td {
+    border: 1px solid black;
+    text-align: left;
+}
+
+table th {
+    text-align: center;
+    color: red;
+    font-style: italic;
+}
+
+.letra-grande {
+    font-size: 1.5em;
+}
