@@ -13,3 +13,6 @@
 <h2>punto 3: css</h2>
 <img src="./public/images/css.png" 
 alt="css">
+
+<h2>punto 4: html<h2>
+<img src="./public/images/screencapture-file-C-Users-Diego-Alexander-OneDrive-Escritorio-TALLER-punto-4-public-index-html-2023-07-08-09_58_00.png" alt="html">
