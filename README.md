@@ -4,7 +4,7 @@
 <p>Curso: Full Starck Básico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p>
 
-<a href="https://github.com/silvi1992/taller-9-full-stack">Link de figma</a>
+<a href="https://silvi1992.github.io/taller-9-full-stack/">Link de figma</a>
 
 
 <h2>Punto 1: Link de figma</h2>
