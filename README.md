@@ -4,13 +4,13 @@
 <p>Curso: Full Starck Básico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p>
 
-<a href="https://silvi1992.github.io/taller-9-full-stack/">Link de figma</a>
+<a href="https://silvi1992.github.io/taller-9-full-stack/">Link Pagina Web</a>
 
 
 <h2>Punto 1: Link de figma</h2>
 <a href="https://www.figma.com/file/ffE2jKaRmWRNXCfLlhhEkz/silvia-marmolejo-figma-excer?type=design&node-id=0%3A1&t=8WqlVWDdvolgY4xU-1">Link de figma</a>
 
-<h2>Punti 2: html</h2>
+<h2>Punto 2: html</h2>
 <img src="./public/images/img 2.png.png" alt="html">
 
 <h2>punto 3: css</h2>
